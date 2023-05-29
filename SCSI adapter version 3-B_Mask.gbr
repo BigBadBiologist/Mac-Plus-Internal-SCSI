@@ -2,7 +2,7 @@
 %TF.CreationDate,2023-05-29T07:50:42-04:00*%
 %TF.ProjectId,SCSI adapter version 3,53435349-2061-4646-9170-746572207665,rev?*%
 %TF.SameCoordinates,Original*%
-%TF.FileFunction,Soldermask,Top*%
+%TF.FileFunction,Soldermask,Bot*%
 %TF.FilePolarity,Negative*%
 %FSLAX46Y46*%
 G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
