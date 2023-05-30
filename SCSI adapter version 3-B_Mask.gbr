@@ -1,12 +1,12 @@
-%TF.GenerationSoftware,KiCad,Pcbnew,(6.0.6-0)*%
-%TF.CreationDate,2023-05-29T07:50:42-04:00*%
+%TF.GenerationSoftware,KiCad,Pcbnew,7.0.5-0*%
+%TF.CreationDate,2023-05-30T18:10:53-04:00*%
 %TF.ProjectId,SCSI adapter version 3,53435349-2061-4646-9170-746572207665,rev?*%
 %TF.SameCoordinates,Original*%
 %TF.FileFunction,Soldermask,Bot*%
 %TF.FilePolarity,Negative*%
 %FSLAX46Y46*%
 G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
-G04 Created by KiCad (PCBNEW (6.0.6-0)) date 2023-05-29 07:50:42*
+G04 Created by KiCad (PCBNEW 7.0.5-0) date 2023-05-30 18:10:53*
 %MOMM*%
 %LPD*%
 G01*
